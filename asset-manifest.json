@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/artslavc-site/static/css/main.3a9e0cff.css",
+    "main.js": "/artslavc-site/static/js/main.e82391bf.js",
+    "static/js/453.3c35b691.chunk.js": "/artslavc-site/static/js/453.3c35b691.chunk.js",
+    "static/media/01-big.jpg": "/artslavc-site/static/media/01-big.b14a64678cc7d68c80a0.jpg",
+    "static/media/05.jpg": "/artslavc-site/static/media/05.1fb9be5ff0808251311e.jpg",
+    "static/media/01.jpg": "/artslavc-site/static/media/01.903885de0badcc33472f.jpg",
+    "static/media/02-big.jpg": "/artslavc-site/static/media/02-big.a294293fb331cbf4cbfe.jpg",
+    "static/media/06.jpg": "/artslavc-site/static/media/06.b6dee11d2b929c663e45.jpg",
+    "static/media/02.jpg": "/artslavc-site/static/media/02.d7153601700da706f835.jpg",
+    "static/media/03-big.jpg": "/artslavc-site/static/media/03-big.fb10ac9c2d12d197c686.jpg",
+    "static/media/04.jpg": "/artslavc-site/static/media/04.9cd4bc6da2d56b5cc20d.jpg",
+    "static/media/03.jpg": "/artslavc-site/static/media/03.4a7617edfd072573a72c.jpg",
+    "static/media/04-big.jpg": "/artslavc-site/static/media/04-big.71358db556a54d0141da.jpg",
+    "static/media/header-bg.png": "/artslavc-site/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/artslavc-site/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/artslavc-site/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/artslavc-site/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/artslavc-site/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "index.html": "/artslavc-site/index.html",
+    "main.3a9e0cff.css.map": "/artslavc-site/static/css/main.3a9e0cff.css.map",
+    "main.e82391bf.js.map": "/artslavc-site/static/js/main.e82391bf.js.map",
+    "453.3c35b691.chunk.js.map": "/artslavc-site/static/js/453.3c35b691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a9e0cff.css",
+    "static/js/main.e82391bf.js"
+  ]
+}
